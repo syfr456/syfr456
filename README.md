@@ -2,7 +2,7 @@
 
 ### Hi There..  
 <div align="center">
-  <img src="https://tenor.com/id/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" width="480" height="132" frameBorder="0" class="giphy-embed" allowFullScreen/>
+  <img src="https://tenor.com/id/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" width="480" height="132"/>
 </div>  
   
 
