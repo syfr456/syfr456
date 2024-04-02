@@ -2,8 +2,7 @@
 
 ### Hi There..  
 <div align="center">
-  <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen />
-  <p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/5G3YsfKVYgcRfOIAlJ" width="480" height="132" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>  
   
 
