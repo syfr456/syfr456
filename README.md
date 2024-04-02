@@ -1,9 +1,9 @@
-### <div align="center">Hi there 👋</div>
+## <div align="center">Hi there 👋</div>
 <div align="center">
  <img src="https://github.com/syfr456/syfr456/blob/87c560ef4c51ad45faf00729160ad2af4136cb29/Working%20Computer%20GIF%20-%20Working%20Work%20Computer%20-%20Discover%20%26%20Share%20GIFs.gif"/>
 </div>  
   
-
+## About Me
 ### <div align="center">I'm Sekar Syafira, you can call me Fira, from Jakarta, Indonesia. I specialize in front-end development, creating user interfaces for web and Android mobile applications. I ensure interfaces are optimized for various devices, enabling smooth access on desktops, tablets, and phones</div>  
   
 
