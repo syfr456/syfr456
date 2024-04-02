@@ -2,7 +2,7 @@
 
 ### Hi There..  
 <div align="center">
-  <iframe src="https://giphy.com/embed/5G3YsfKVYgcRfOIAlJ" width="480" height="132" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/5G3YsfKVYgcRfOIAlJ" width="480" height="132" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>  
   
 
